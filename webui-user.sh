@@ -46,3 +46,5 @@
 #export NO_TCMALLOC="True"
 
 ###########################################
+export COMMANDLINE_ARGS="--autolaunch --xformers"
+
